@@ -1,0 +1,34 @@
+_repo: The-Vedanta-Sutras-with-the-Commentary-by-SankaracaryaSacred-Books-of-the-East-Volume-1_16295
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Sankaracarya
+    gutenberg_agent_id: '38496'
+    url: http://www.gutenberg.org/2009/agents/38496
+  translator:
+    agent_name: Thibaut, G. (George)
+    alias: Thibaut, George Frederick William
+    birthdate: 1848
+    deathdate: 1914
+    gutenberg_agent_id: '2412'
+    url: http://www.gutenberg.org/2009/agents/2412
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_bookshelf: Hinduism
+gutenberg_issued: '2005-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16295'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Vedanta'
+- !lcc 'BL'
+title: 'The Vedanta-Sutras with the Commentary by Sankaracarya
+
+  Sacred Books of the East, Volume 1'
+url: http://www.gutenberg.org/ebooks/16295
