@@ -16,6 +16,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16295#The-Vedanta-Sutras-with-the-Commentary-by-SankaracaryaSacred-Books-of-the-East-Volume-1
 gutenberg_bookshelf: Hinduism
 gutenberg_issued: '2005-07-15'
 gutenberg_type: Text
